@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh</h1>
+<h1 align="center">Hi 👋, this is Minh =3 </h1>
 <h3 align="center">Just a student developer from Vietnam, and based in US =)</h3>
 
 - 🔭 I’m currently working on **ReCal**
