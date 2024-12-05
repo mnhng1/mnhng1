@@ -1,10 +1,9 @@
 
+🔭 I’m currently working on **ReCal** as a personal project, and **NEFAC's** searching interface with BUILDUMass" 
 
-- 🔭 I’m currently working on **ReCal** as a personal project, and **NEFAC's** searching interface with BUILDUMass" 
+👨‍💻 All of my projects are available at [https://github.com/mnhng1?tab=repositories](https://github.com/mnhng1?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mnhng1?tab=repositories](https://github.com/mnhng1?tab=repositories)
-
-- 📫 How to reach me **minh.t.nguyen002.work@gmail.com**
+📫 reach me via **minh.t.nguyen002.work@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
