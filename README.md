@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on **ReCal** as a personal project, and **NEFAC's** searching interface with BUILDUMass" 
+
 
 👨‍💻 All of my projects are available at [https://github.com/mnhng1?tab=repositories](https://github.com/mnhng1?tab=repositories)
 
